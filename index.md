@@ -1,4 +1,4 @@
-## Here you can access the slides I presented at the SAMBa Summer Conference 2020.
+## Here you can access the slides I presented at ICSB 41 August 2020.
 
 [Link to slides](/summer_2020_talk.html)
 ```
@@ -24,7 +24,7 @@
 ## html iframe to embed the slide.
 
 <div class="resp-container">
-    <iframe class="testiframe" src="https://erp31.github.io/SAMBa_summer_conf_2020/use_master.html">
+    <iframe class="testiframe" src="https://erp31.github.io/ISCB_2020_talk/use_master.html">
 ...
     </iframe>
 </div>
