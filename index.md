@@ -1,8 +1,7 @@
-## Here you can access the slides I presented at ISCB 41 August 2020.
+## Here you can access the slides I presented at ISCB 41 in August 2020.
 
-[Link to slides](/summer_2020_talk.html)
-```
-## CSS styles
+[Access the slides](/summer_2020_talk.html)
+
 <style>
 .resp-container {
     position: relative;
@@ -20,13 +19,8 @@
 }
 </style>
 
-
-## html iframe to embed the slide.
-
 <div class="resp-container">
-    <iframe class="testiframe" src="https://erp31.github.io/ISCB_2020_talk/use_master.html">
-...
+    <iframe class="testiframe" src="https://erp31.github.io/summer_2020_talk/use_master.html">
     </iframe>
 </div>
 
-```
