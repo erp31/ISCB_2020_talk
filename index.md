@@ -20,7 +20,7 @@
 </style>
 
 <div class="resp-container">
-    <iframe class="testiframe" src="https://erp31.github.io/summer_2020_talk/use_master.html">
+    <iframe class="testiframe" src="https://erp31.github.io/ISCB_2020_talk/summer_2020_talk.html">
     </iframe>
 </div>
 
