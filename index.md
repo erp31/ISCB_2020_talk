@@ -1,4 +1,4 @@
-## Here you can access the slides I presented at ICSB 41 August 2020.
+## Here you can access the slides I presented at ISCB 41 August 2020.
 
 [Link to slides](/summer_2020_talk.html)
 ```
